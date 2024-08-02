@@ -12,17 +12,11 @@ Creating notes on React.js and sharing them on GitHub is a great way to document
    ```
 
 ### 2. **Introduction**
-
-   - Provide a brief introduction explaining what these notes are for and how they can be useful to others.
-
-   ```markdown
-   ## Introduction
+   ```
    These are my study notes on [React.js](https://reactjs.org/), covering core concepts, components, hooks, state management, and more. These notes are intended to help beginners understand React.js and serve as a reference for those looking to refresh their knowledge.
    ```
 
 ### 3. **Table of Contents**
-
-   - List all the topics you’ve covered, making it easier to navigate through your notes.
 
    ```markdown
    ## Table of Contents
