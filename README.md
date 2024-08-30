@@ -67,7 +67,6 @@ const element = <h1>Hello, world!</h1>;
 ### Fun Fact
 
 Did you know? React was created by Jordan Walke, a software engineer at Facebook, and was first deployed on Facebook's newsfeed in 2011!
-```
 
 ###  **Contact**
 
