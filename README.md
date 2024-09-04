@@ -1,12 +1,6 @@
 # Learning React
 
-Creating notes on React.js and sharing them on GitHub is a great way to document your learning process and help others who are studying the same topic. Here’s how you can structure your README for React.js notes:
-
-Here’s a more streamlined and focused README for your React.js study notes:
-
----
-
-# React.js Study Notes
+## React.js Study Notes
 
 These notes cover core concepts of [React.js](https://reactjs.org/), including components, hooks, state management, and more. They are designed to help beginners understand React and serve as a reference for refreshing your knowledge.
 
@@ -55,22 +49,23 @@ JSX allows you to write HTML elements in JavaScript.
 const element = <h1>Hello, world!</h1>;
 ```
 
-
 ### **Additional Resources**
 
 ```markdown
 ### Additional Resources
+
 - [React.js Official Documentation](https://reactjs.org/docs/getting-started.html)
 - [React Tutorial for Beginners](https://reactjs.org/tutorial/tutorial.html)
-````
+```
 
 ### Fun Fact
 
 Did you know? React was created by Jordan Walke, a software engineer at Facebook, and was first deployed on Facebook's newsfeed in 2011!
 
-###  **Contact**
+### **Contact**
 
 Created by [KevCare](https://github.com/KevCareSA) - feel free to reach out!
 
 - **Email:** [kev.mkbn@gmail.com]
 - **Twitter:** [@KevCare](https://twitter.com/KgosiKevin)
+  \*\*
